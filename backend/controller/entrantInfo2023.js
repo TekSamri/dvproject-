@@ -1,7 +1,5 @@
 const EntrantInfo = require("../model/entantInfo");
 
-//
-
 // Create Entrant Info in database
 
 const createEntrantInfo = async (req, res) => {
